@@ -1,9 +1,7 @@
 mode=cmon
 <br>
-time=1
+time=5
 <br>
 date=10/03/2022
 <br>
-user=1775
-<br>
-onoff=on
+onoff=off
